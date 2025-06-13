@@ -1,0 +1,8 @@
+# Not ignored: .cpp, .hpp, Makefile
+# Object files and libraries
+*.o
+*.a
+
+# Debugging Symbols
+*.dSYM
+
